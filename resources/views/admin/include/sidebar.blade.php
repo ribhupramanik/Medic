@@ -111,6 +111,15 @@
             </li>
 
             <!-- Divider -->
+            <hr class="sidebar-divider d-none d-md-block my-1">
+
+            <li class="nav-item">
+                <a class="nav-link" href="{{route('doctor_timing')}}">
+                    <i class="fas fa-fw fa-clock"></i>
+                    <span>Doctor Timing</span></a>
+            </li>
+
+            <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
 
             <!-- Sidebar Toggler (Sidebar) -->
